@@ -1,0 +1,16 @@
+name = "Optimized for Celeron"
+author = "YakisikliBaran"
+version = "0.0.1-ofc"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de3057952e9dc6512ca1e5c32ef04795ae539ccea91bdcb358176edf0fad248e"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.3"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
