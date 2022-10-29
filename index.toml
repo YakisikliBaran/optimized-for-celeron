@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
+hash = "b16ebfe8a98659a29b9102ee10530b16b9d635a9943e12d429fd967dd5584031"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "32ad6405b32bf0603740c6d4579cdcd93bd9d3bba5ca9b1292152df5f6501d08"
+hash = "891a894c6758eaac5a37e6e937b6599668fa2084923382fa7ec69ebdd6340cbc"
 metafile = true
 
 [[files]]
